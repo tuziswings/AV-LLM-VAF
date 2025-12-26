@@ -1,0 +1,282 @@
+[
+  {
+    "layer": 0,
+    "Intra-Visual Flow": "2.682004e-07",
+    "Text→Visual Flow": "2.843834e-10",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "6.609091e-10",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "1.409563e-09",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 1,
+    "Intra-Visual Flow": "7.661672e-08",
+    "Text→Visual Flow": "9.416052e-11",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "3.252177e-10",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "3.003775e-09",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 2,
+    "Intra-Visual Flow": "2.106335e-08",
+    "Text→Visual Flow": "1.625576e-10",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "8.067111e-11",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "3.151751e-10",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 3,
+    "Intra-Visual Flow": "1.685166e-07",
+    "Text→Visual Flow": "1.518585e-09",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "6.091735e-10",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "1.942873e-09",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 4,
+    "Intra-Visual Flow": "3.146868e-08",
+    "Text→Visual Flow": "2.918918e-09",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "5.023917e-11",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "1.255196e-09",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 5,
+    "Intra-Visual Flow": "5.074436e-08",
+    "Text→Visual Flow": "5.483765e-08",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "7.348237e-11",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "1.637130e-09",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 6,
+    "Intra-Visual Flow": "7.069309e-08",
+    "Text→Visual Flow": "8.407541e-09",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "3.315523e-10",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "2.427553e-09",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 7,
+    "Intra-Visual Flow": "1.933150e-07",
+    "Text→Visual Flow": "1.746067e-08",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "1.358533e-10",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "5.234447e-10",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 8,
+    "Intra-Visual Flow": "3.200466e-07",
+    "Text→Visual Flow": "1.233982e-07",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "4.636800e-10",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "2.268158e-09",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 9,
+    "Intra-Visual Flow": "5.651038e-07",
+    "Text→Visual Flow": "1.244611e-07",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "2.242387e-10",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "6.228682e-09",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 10,
+    "Intra-Visual Flow": "3.098813e-07",
+    "Text→Visual Flow": "2.362668e-08",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "2.410186e-10",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "1.461320e-09",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 11,
+    "Intra-Visual Flow": "4.726174e-07",
+    "Text→Visual Flow": "1.117810e-07",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "8.569686e-10",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "3.548179e-09",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 12,
+    "Intra-Visual Flow": "6.054776e-07",
+    "Text→Visual Flow": "1.728792e-07",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "3.903929e-10",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "8.630906e-09",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 13,
+    "Intra-Visual Flow": "5.623144e-07",
+    "Text→Visual Flow": "1.909221e-07",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "8.892391e-10",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "6.800427e-09",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 14,
+    "Intra-Visual Flow": "3.297023e-07",
+    "Text→Visual Flow": "6.719660e-07",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "4.248397e-10",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "2.421558e-08",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 15,
+    "Intra-Visual Flow": "2.841148e-07",
+    "Text→Visual Flow": "2.019517e-07",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "7.179277e-10",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "1.295843e-08",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 16,
+    "Intra-Visual Flow": "9.917116e-08",
+    "Text→Visual Flow": "5.409718e-07",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "2.319207e-10",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "2.051311e-08",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 17,
+    "Intra-Visual Flow": "5.972506e-08",
+    "Text→Visual Flow": "1.718267e-07",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "1.241436e-10",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "4.798492e-09",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 18,
+    "Intra-Visual Flow": "1.378784e-07",
+    "Text→Visual Flow": "6.777133e-08",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "7.887118e-11",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "4.189811e-09",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 19,
+    "Intra-Visual Flow": "6.045424e-08",
+    "Text→Visual Flow": "1.339239e-07",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "1.910438e-11",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "1.319924e-08",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 20,
+    "Intra-Visual Flow": "1.533783e-08",
+    "Text→Visual Flow": "1.316034e-08",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "7.870468e-12",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "7.275993e-10",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 21,
+    "Intra-Visual Flow": "3.208274e-08",
+    "Text→Visual Flow": "2.159082e-08",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "2.061060e-11",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "1.728483e-09",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 22,
+    "Intra-Visual Flow": "6.717089e-09",
+    "Text→Visual Flow": "5.048700e-08",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "7.695452e-12",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "8.426946e-10",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 23,
+    "Intra-Visual Flow": "4.319258e-08",
+    "Text→Visual Flow": "4.004560e-08",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "4.612638e-11",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "6.339477e-10",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 24,
+    "Intra-Visual Flow": "1.821431e-08",
+    "Text→Visual Flow": "1.158817e-08",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "1.509343e-11",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "5.351944e-10",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 25,
+    "Intra-Visual Flow": "1.555387e-08",
+    "Text→Visual Flow": "1.817327e-08",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "2.238564e-11",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "3.774889e-10",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 26,
+    "Intra-Visual Flow": "1.380682e-08",
+    "Text→Visual Flow": "3.097608e-08",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": "1.694411e-11",
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "8.148821e-10",
+    "Audio→Text Flow": 0.0
+  },
+  {
+    "layer": 27,
+    "Intra-Visual Flow": 0.0,
+    "Text→Visual Flow": "2.730266e-08",
+    "Visual→Text Flow": 0.0,
+    "Audio→Visual Flow": 0.0,
+    "Visual→Audio Flow": 0.0,
+    "Text→Audio Flow": "4.978628e-10",
+    "Audio→Text Flow": 0.0
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "layer": 0,
+    "System Prompts": 11.5545,
+    "Visual Tokens": 2.1908,
+    "Audio Tokens": 20.4484,
+    "User Instructions": 65.8062
+  },
+  {
+    "layer": 1,
+    "System Prompts": 4.663,
+    "Visual Tokens": 1.6479,
+    "Audio Tokens": 29.9791,
+    "User Instructions": 63.71
+  },
+  {
+    "layer": 2,
+    "System Prompts": 16.3831,
+    "Visual Tokens": 2.34,
+    "Audio Tokens": 30.4325,
+    "User Instructions": 50.8444
+  },
+  {
+    "layer": 3,
+    "System Prompts": 5.923,
+    "Visual Tokens": 1.5117,
+    "Audio Tokens": 23.8604,
+    "User Instructions": 68.7048
+  },
+  {
+    "layer": 4,
+    "System Prompts": 68.8425,
+    "Visual Tokens": 1.9675,
+    "Audio Tokens": 10.0378,
+    "User Instructions": 19.1522
+  },
+  {
+    "layer": 5,
+    "System Prompts": 66.1045,
+    "Visual Tokens": 2.7534,
+    "Audio Tokens": 10.0612,
+    "User Instructions": 21.0809
+  },
+  {
+    "layer": 6,
+    "System Prompts": 57.1847,
+    "Visual Tokens": 2.4728,
+    "Audio Tokens": 9.5429,
+    "User Instructions": 30.7996
+  },
+  {
+    "layer": 7,
+    "System Prompts": 47.5405,
+    "Visual Tokens": 4.9192,
+    "Audio Tokens": 9.7831,
+    "User Instructions": 37.7572
+  },
+  {
+    "layer": 8,
+    "System Prompts": 68.4415,
+    "Visual Tokens": 2.7111,
+    "Audio Tokens": 4.7125,
+    "User Instructions": 24.135
+  },
+  {
+    "layer": 9,
+    "System Prompts": 40.4481,
+    "Visual Tokens": 5.4695,
+    "Audio Tokens": 11.7561,
+    "User Instructions": 42.3263
+  },
+  {
+    "layer": 10,
+    "System Prompts": 71.8905,
+    "Visual Tokens": 1.6136,
+    "Audio Tokens": 3.7741,
+    "User Instructions": 22.7218
+  },
+  {
+    "layer": 11,
+    "System Prompts": 55.6611,
+    "Visual Tokens": 2.6707,
+    "Audio Tokens": 7.9369,
+    "User Instructions": 33.7313
+  },
+  {
+    "layer": 12,
+    "System Prompts": 48.8286,
+    "Visual Tokens": 4.3024,
+    "Audio Tokens": 12.8311,
+    "User Instructions": 34.038
+  },
+  {
+    "layer": 13,
+    "System Prompts": 34.6805,
+    "Visual Tokens": 11.9195,
+    "Audio Tokens": 16.0901,
+    "User Instructions": 37.3099
+  },
+  {
+    "layer": 14,
+    "System Prompts": 49.0074,
+    "Visual Tokens": 13.0107,
+    "Audio Tokens": 9.9056,
+    "User Instructions": 28.0764
+  },
+  {
+    "layer": 15,
+    "System Prompts": 52.0244,
+    "Visual Tokens": 3.1103,
+    "Audio Tokens": 6.1551,
+    "User Instructions": 38.7103
+  },
+  {
+    "layer": 16,
+    "System Prompts": 34.3082,
+    "Visual Tokens": 5.2203,
+    "Audio Tokens": 3.7476,
+    "User Instructions": 56.724
+  },
+  {
+    "layer": 17,
+    "System Prompts": 49.1082,
+    "Visual Tokens": 1.828,
+    "Audio Tokens": 3.4703,
+    "User Instructions": 45.5935
+  },
+  {
+    "layer": 18,
+    "System Prompts": 23.107,
+    "Visual Tokens": 4.7682,
+    "Audio Tokens": 3.4434,
+    "User Instructions": 68.6814
+  },
+  {
+    "layer": 19,
+    "System Prompts": 30.1497,
+    "Visual Tokens": 12.5395,
+    "Audio Tokens": 9.892,
+    "User Instructions": 47.4189
+  },
+  {
+    "layer": 20,
+    "System Prompts": 19.406,
+    "Visual Tokens": 2.6622,
+    "Audio Tokens": 7.1313,
+    "User Instructions": 70.8005
+  },
+  {
+    "layer": 21,
+    "System Prompts": 36.2332,
+    "Visual Tokens": 4.6664,
+    "Audio Tokens": 5.6125,
+    "User Instructions": 53.488
+  },
+  {
+    "layer": 22,
+    "System Prompts": 46.7505,
+    "Visual Tokens": 11.1179,
+    "Audio Tokens": 4.5643,
+    "User Instructions": 37.5673
+  },
+  {
+    "layer": 23,
+    "System Prompts": 44.4792,
+    "Visual Tokens": 8.214,
+    "Audio Tokens": 4.0323,
+    "User Instructions": 43.2744
+  },
+  {
+    "layer": 24,
+    "System Prompts": 66.5725,
+    "Visual Tokens": 2.9564,
+    "Audio Tokens": 3.8508,
+    "User Instructions": 26.6203
+  },
+  {
+    "layer": 25,
+    "System Prompts": 54.9258,
+    "Visual Tokens": 2.9903,
+    "Audio Tokens": 1.8228,
+    "User Instructions": 40.261
+  },
+  {
+    "layer": 26,
+    "System Prompts": 54.5271,
+    "Visual Tokens": 6.504,
+    "Audio Tokens": 2.5122,
+    "User Instructions": 36.4567
+  },
+  {
+    "layer": 27,
+    "System Prompts": 34.1648,
+    "Visual Tokens": 8.9744,
+    "Audio Tokens": 3.4063,
+    "User Instructions": 53.4545
+  }
+]

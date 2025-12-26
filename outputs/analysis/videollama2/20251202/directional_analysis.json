@@ -1,0 +1,77 @@
+{
+  "Visual_Text": {
+    "Visual→Text": {
+      "mean": 0.0,
+      "std": 0.0,
+      "max": 0.0,
+      "min": 0.0
+    },
+    "Text→Visual": {
+      "mean": 1.0123171841142856e-07,
+      "std": 1.5475217995103353e-07,
+      "max": 6.71966e-07,
+      "min": 9.416052e-11
+    },
+    "difference": {
+      "mean": -1.0123171841142856e-07,
+      "std": 1.5475217995103353e-07,
+      "max": -9.416052e-11,
+      "min": -6.71966e-07
+    },
+    "ratio": {
+      "mean": NaN,
+      "median": NaN,
+      "std": NaN
+    }
+  },
+  "Visual_Audio": {
+    "Visual→Audio": {
+      "mean": 0.0,
+      "std": 0.0,
+      "max": 0.0,
+      "min": 0.0
+    },
+    "Audio→Visual": {
+      "mean": 2.523632067857143e-10,
+      "std": 2.705507698819683e-10,
+      "max": 8.892391e-10,
+      "min": 0.0
+    },
+    "difference": {
+      "mean": -2.523632067857143e-10,
+      "std": 2.705507698819683e-10,
+      "max": 0.0,
+      "min": -8.892391e-10
+    },
+    "ratio": {
+      "mean": NaN,
+      "median": NaN,
+      "std": NaN
+    }
+  },
+  "Text_Audio": {
+    "Text→Audio": {
+      "mean": 4.55304277142857e-09,
+      "std": 6.036016820333927e-09,
+      "max": 2.421558e-08,
+      "min": 3.151751e-10
+    },
+    "Audio→Text": {
+      "mean": 0.0,
+      "std": 0.0,
+      "max": 0.0,
+      "min": 0.0
+    },
+    "difference": {
+      "mean": 4.55304277142857e-09,
+      "std": 6.036016820333927e-09,
+      "max": 2.421558e-08,
+      "min": 3.151751e-10
+    },
+    "ratio": {
+      "mean": NaN,
+      "median": NaN,
+      "std": NaN
+    }
+  }
+}

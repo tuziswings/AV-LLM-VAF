@@ -1,0 +1,194 @@
+[
+  {
+    "layer": 0,
+    "System Prompts": 6.3984,
+    "Visual Features": 65.9375,
+    "User Instructions": 27.6406
+  },
+  {
+    "layer": 1,
+    "System Prompts": 16.5469,
+    "Visual Features": 34.6875,
+    "User Instructions": 48.7812
+  },
+  {
+    "layer": 2,
+    "System Prompts": 86.25,
+    "Visual Features": 8.2812,
+    "User Instructions": 5.4336
+  },
+  {
+    "layer": 3,
+    "System Prompts": 87.1875,
+    "Visual Features": 6.5781,
+    "User Instructions": 6.2812
+  },
+  {
+    "layer": 4,
+    "System Prompts": 82.5,
+    "Visual Features": 6.7695,
+    "User Instructions": 10.7031
+  },
+  {
+    "layer": 5,
+    "System Prompts": 86.9375,
+    "Visual Features": 5.3008,
+    "User Instructions": 7.7695
+  },
+  {
+    "layer": 6,
+    "System Prompts": 79.125,
+    "Visual Features": 5.4805,
+    "User Instructions": 15.3594
+  },
+  {
+    "layer": 7,
+    "System Prompts": 80.5,
+    "Visual Features": 5.3164,
+    "User Instructions": 14.2344
+  },
+  {
+    "layer": 8,
+    "System Prompts": 80.0,
+    "Visual Features": 4.9688,
+    "User Instructions": 15.0391
+  },
+  {
+    "layer": 9,
+    "System Prompts": 65.125,
+    "Visual Features": 4.7656,
+    "User Instructions": 30.125
+  },
+  {
+    "layer": 10,
+    "System Prompts": 67.5,
+    "Visual Features": 4.2305,
+    "User Instructions": 28.2656
+  },
+  {
+    "layer": 11,
+    "System Prompts": 65.3125,
+    "Visual Features": 4.7461,
+    "User Instructions": 29.9531
+  },
+  {
+    "layer": 12,
+    "System Prompts": 66.0,
+    "Visual Features": 5.0039,
+    "User Instructions": 28.9844
+  },
+  {
+    "layer": 13,
+    "System Prompts": 54.5938,
+    "Visual Features": 7.2188,
+    "User Instructions": 38.2188
+  },
+  {
+    "layer": 14,
+    "System Prompts": 49.7188,
+    "Visual Features": 12.0391,
+    "User Instructions": 38.2188
+  },
+  {
+    "layer": 15,
+    "System Prompts": 58.6875,
+    "Visual Features": 5.8789,
+    "User Instructions": 35.4375
+  },
+  {
+    "layer": 16,
+    "System Prompts": 62.4375,
+    "Visual Features": 4.1055,
+    "User Instructions": 33.4375
+  },
+  {
+    "layer": 17,
+    "System Prompts": 67.1875,
+    "Visual Features": 4.4414,
+    "User Instructions": 28.375
+  },
+  {
+    "layer": 18,
+    "System Prompts": 71.9375,
+    "Visual Features": 4.9922,
+    "User Instructions": 23.0938
+  },
+  {
+    "layer": 19,
+    "System Prompts": 70.125,
+    "Visual Features": 6.8164,
+    "User Instructions": 23.0625
+  },
+  {
+    "layer": 20,
+    "System Prompts": 75.75,
+    "Visual Features": 5.5742,
+    "User Instructions": 18.6719
+  },
+  {
+    "layer": 21,
+    "System Prompts": 77.375,
+    "Visual Features": 7.2148,
+    "User Instructions": 15.3828
+  },
+  {
+    "layer": 22,
+    "System Prompts": 85.8125,
+    "Visual Features": 4.0977,
+    "User Instructions": 10.0547
+  },
+  {
+    "layer": 23,
+    "System Prompts": 84.125,
+    "Visual Features": 4.0977,
+    "User Instructions": 11.7891
+  },
+  {
+    "layer": 24,
+    "System Prompts": 79.1875,
+    "Visual Features": 5.6875,
+    "User Instructions": 15.1406
+  },
+  {
+    "layer": 25,
+    "System Prompts": 86.375,
+    "Visual Features": 4.5039,
+    "User Instructions": 9.1328
+  },
+  {
+    "layer": 26,
+    "System Prompts": 81.125,
+    "Visual Features": 3.8691,
+    "User Instructions": 14.9688
+  },
+  {
+    "layer": 27,
+    "System Prompts": 86.75,
+    "Visual Features": 2.7168,
+    "User Instructions": 10.5078
+  },
+  {
+    "layer": 28,
+    "System Prompts": 84.375,
+    "Visual Features": 4.6484,
+    "User Instructions": 10.9688
+  },
+  {
+    "layer": 29,
+    "System Prompts": 84.8125,
+    "Visual Features": 5.1367,
+    "User Instructions": 10.0625
+  },
+  {
+    "layer": 30,
+    "System Prompts": 85.8125,
+    "Visual Features": 3.5605,
+    "User Instructions": 10.6562
+  },
+  {
+    "layer": 31,
+    "System Prompts": 69.375,
+    "Visual Features": 11.5234,
+    "User Instructions": 19.0938
+  }
+]

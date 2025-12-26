@@ -1,0 +1,162 @@
+[
+  {
+    "layer": 0,
+    "Intra-Visual Flow": 1.020025e-10,
+    "Visual-Textual Flow": 1.44623e-07
+  },
+  {
+    "layer": 1,
+    "Intra-Visual Flow": 1.444778e-11,
+    "Visual-Textual Flow": 1.985439e-08
+  },
+  {
+    "layer": 2,
+    "Intra-Visual Flow": 6.325102e-10,
+    "Visual-Textual Flow": 2.555228e-08
+  },
+  {
+    "layer": 3,
+    "Intra-Visual Flow": 3.396736e-10,
+    "Visual-Textual Flow": 1.188832e-08
+  },
+  {
+    "layer": 4,
+    "Intra-Visual Flow": 8.724267e-10,
+    "Visual-Textual Flow": 1.487263e-08
+  },
+  {
+    "layer": 5,
+    "Intra-Visual Flow": 3.740441e-09,
+    "Visual-Textual Flow": 1.311417e-08
+  },
+  {
+    "layer": 6,
+    "Intra-Visual Flow": 2.784197e-09,
+    "Visual-Textual Flow": 8.797223e-09
+  },
+  {
+    "layer": 7,
+    "Intra-Visual Flow": 6.73789e-09,
+    "Visual-Textual Flow": 1.068942e-08
+  },
+  {
+    "layer": 8,
+    "Intra-Visual Flow": 1.646847e-08,
+    "Visual-Textual Flow": 3.004994e-08
+  },
+  {
+    "layer": 9,
+    "Intra-Visual Flow": 1.975642e-08,
+    "Visual-Textual Flow": 1.259231e-08
+  },
+  {
+    "layer": 10,
+    "Intra-Visual Flow": 2.437937e-08,
+    "Visual-Textual Flow": 3.005474e-08
+  },
+  {
+    "layer": 11,
+    "Intra-Visual Flow": 1.897569e-08,
+    "Visual-Textual Flow": 9.082264e-08
+  },
+  {
+    "layer": 12,
+    "Intra-Visual Flow": 5.804222e-09,
+    "Visual-Textual Flow": 3.552537e-08
+  },
+  {
+    "layer": 13,
+    "Intra-Visual Flow": 4.635544e-09,
+    "Visual-Textual Flow": 7.563449e-09
+  },
+  {
+    "layer": 14,
+    "Intra-Visual Flow": 3.578546e-09,
+    "Visual-Textual Flow": 4.787002e-08
+  },
+  {
+    "layer": 15,
+    "Intra-Visual Flow": 2.839284e-09,
+    "Visual-Textual Flow": 9.17253e-09
+  },
+  {
+    "layer": 16,
+    "Intra-Visual Flow": 1.176705e-09,
+    "Visual-Textual Flow": 3.192543e-09
+  },
+  {
+    "layer": 17,
+    "Intra-Visual Flow": 1.587836e-09,
+    "Visual-Textual Flow": 5.95924e-09
+  },
+  {
+    "layer": 18,
+    "Intra-Visual Flow": 9.543788e-10,
+    "Visual-Textual Flow": 3.416596e-09
+  },
+  {
+    "layer": 19,
+    "Intra-Visual Flow": 1.939662e-09,
+    "Visual-Textual Flow": 4.396198e-09
+  },
+  {
+    "layer": 20,
+    "Intra-Visual Flow": 6.399063e-10,
+    "Visual-Textual Flow": 3.81519e-09
+  },
+  {
+    "layer": 21,
+    "Intra-Visual Flow": 4.650623e-10,
+    "Visual-Textual Flow": 1.728809e-09
+  },
+  {
+    "layer": 22,
+    "Intra-Visual Flow": 8.84213e-10,
+    "Visual-Textual Flow": 4.420589e-09
+  },
+  {
+    "layer": 23,
+    "Intra-Visual Flow": 8.993638e-10,
+    "Visual-Textual Flow": 2.030751e-09
+  },
+  {
+    "layer": 24,
+    "Intra-Visual Flow": 6.163049e-10,
+    "Visual-Textual Flow": 1.928856e-09
+  },
+  {
+    "layer": 25,
+    "Intra-Visual Flow": 2.539266e-10,
+    "Visual-Textual Flow": 8.945483e-10
+  },
+  {
+    "layer": 26,
+    "Intra-Visual Flow": 1.251548e-09,
+    "Visual-Textual Flow": 4.124161e-09
+  },
+  {
+    "layer": 27,
+    "Intra-Visual Flow": 9.456699e-10,
+    "Visual-Textual Flow": 1.648455e-09
+  },
+  {
+    "layer": 28,
+    "Intra-Visual Flow": 4.951774e-10,
+    "Visual-Textual Flow": 1.548867e-09
+  },
+  {
+    "layer": 29,
+    "Intra-Visual Flow": 3.434541e-10,
+    "Visual-Textual Flow": 6.238868e-09
+  },
+  {
+    "layer": 30,
+    "Intra-Visual Flow": 8.961644e-10,
+    "Visual-Textual Flow": 1.095691e-09
+  },
+  {
+    "layer": 31,
+    "Intra-Visual Flow": 0.0,
+    "Visual-Textual Flow": 2.761929e-09
+  }
+]
